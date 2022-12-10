@@ -1,0 +1,9 @@
+Bad1: Error occurs at compile
+Class named didn't match file name, must change Class header to Bad1
+
+Bad2: Error occurs at runtime
+ArithmeticException occurs because diving by 0 is not allowed
+
+Bad3: Error occurs at compile
+Type mismatch occurs because you cannot convert char to String, must put right 
+side in double quotations ("a") instead of single quotations ('a')
